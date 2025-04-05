@@ -4,5 +4,5 @@ This repository contains scripts that can be used to train a  customized multi-t
 
 
 ## Using the code
-Use [`main.py`](main.py) to train the model according to a configuration file. Evaluate the model using  [`test.py`](test.py) that also requires [`configuration file`](config_eval.ini)
+Use [`main.py`](main.py) to train the model according to [`configuration file`](config_main.ini). Evaluate the model using  [`test.py`](test.py) that also requires [`configuration file`](config_eval.ini)
 
