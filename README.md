@@ -1,6 +1,8 @@
 # Sea Ice Charting using the AutoICE  Benchmark
 
 This repository contains scripts that can be used to train a  customized multi-task DeepLabV3 model to map sea ice parameters including Sea Ice Concentration (SIC), Stage of Development (SoD) and floe Size (FLOE) using the AutoICE challenge data. 
+![image](https://github.com/user-attachments/assets/8afa1f60-4197-4e6b-8167-a09ea0ad1b87)
+
 
 # Getting started
 ## Using a terminal
