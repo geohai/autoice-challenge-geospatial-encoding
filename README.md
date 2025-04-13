@@ -6,6 +6,12 @@ This repository contains scripts that can be used to train a  customized multi-t
 ![image](https://github.com/user-attachments/assets/8afa1f60-4197-4e6b-8167-a09ea0ad1b87)
 Model architecture. A truncated ResNet-152 is used as backbone, followed by customized ASPP module with average pooling (instead of the default global pooling) to allow for training on sub-images and inference on full-scenes. One ASPP decoder module is used per each target of SIC, SoD, and Floe.
 
+## References
+Please cite us!
+
+The code in this repository was the main source for a sudy published as a [peer-reviewed paper](https://www.sciencedirect.com/science/article/abs/pii/S2352938525000916) titled **Enhancing and Interpreting Deep Learning for Sea Ice Charting using the AutoICE Benchmark**. (https://doi.org/10.1016/j.rsase.2025.101538)
+
+```
 # Getting started
 ## Using a terminal
 Clone this repository to your local machine using your tool of choice. Open the [Anaconda Prompt](https://docs.anaconda.com/anaconda/user-guide/getting-started/) (requires a working [Anaconda](https://www.anaconda.com/) installation):
