@@ -10,7 +10,7 @@ Model architecture. A truncated ResNet-152 is used as backbone, followed by cust
 Please cite us!
 
 The code in this repository was the main source for a sudy published as a [peer-reviewed paper](https://www.sciencedirect.com/science/article/abs/pii/S2352938525000916) titled **Enhancing and Interpreting Deep Learning for Sea Ice Charting using the AutoICE Benchmark**. (https://doi.org/10.1016/j.rsase.2025.101538)
-
+The [preprint](https://doi.org/10.31223/X5NM8J) is also available.
 
 # Getting started
 ## Using a terminal
