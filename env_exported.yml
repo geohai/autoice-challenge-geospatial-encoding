@@ -1,4 +1,4 @@
-name: sea-ice-segment-v2
+name: sea-ice-segment
 channels:
   - pytorch
   - anaconda
